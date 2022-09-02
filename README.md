@@ -1,3 +1,3 @@
 # apple-model-with-texture
 
-<img src="untilted.jpg">
+<img src="untitled.jpg">
